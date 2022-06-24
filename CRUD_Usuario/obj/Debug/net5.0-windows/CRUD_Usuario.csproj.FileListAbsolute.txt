@@ -26,3 +26,5 @@ C:\Users\Livia\source\repos\CRUD_Usuario\CRUD_Usuario\bin\Debug\net5.0-windows\M
 C:\Users\Livia\source\repos\CRUD_Usuario\CRUD_Usuario\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
 C:\Users\Livia\source\repos\CRUD_Usuario\CRUD_Usuario\bin\Debug\net5.0-windows\ZstdNet.dll
 C:\Users\Livia\source\repos\CRUD_Usuario\CRUD_Usuario\obj\Debug\net5.0-windows\CRUD_Usuario.csproj.CopyComplete
+C:\Users\Livia\source\repos\CRUD_Usuario\CRUD_Usuario\obj\Debug\net5.0-windows\CRUD_Usuario.EditarUsuario.resources
+C:\Users\Livia\source\repos\CRUD_Usuario\CRUD_Usuario\obj\Debug\net5.0-windows\CRUD_Usuario.Inseirir_Usuario.resources
